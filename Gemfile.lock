@@ -2,11 +2,13 @@ PATH
   remote: .
   specs:
     ai_assistant (0.1.0)
+      pycall
 
 GEM
   remote: https://rubygems.org/
   specs:
     minitest (5.25.4)
+    pycall (1.5.2)
     rake (13.2.1)
 
 PLATFORMS

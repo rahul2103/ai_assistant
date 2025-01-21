@@ -20,6 +20,14 @@ If bundler is not being used to manage dependencies, install the gem by executin
 gem install UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
 ```
 
+## Install Dependencies
+
+Install Python Libraries:
+
+```bash
+pip install transformers
+```
+
 ## Usage
 
 TODO: Write usage instructions here
